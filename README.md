@@ -5,4 +5,20 @@ This is a blog website which helps you to create your own blogs. It displays all
 
 ## Demonstration
 This is the home page of the Blog website.
+![Homepage](/public/home.png)
+
+This is the page to create a Blog.
+![CreateBlog](/public/createblog.png)
+
+This is the Blog Page.
+![Homepage](/public/blog.png)
+
+## Installation
+* Clone the code in your local device
+* Run npm install
+* Run npm start
+
+## Tech Stack
+React Js
+
 
