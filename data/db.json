@@ -1,0 +1,10 @@
+{
+  "blogs": [
+    {
+      "title": "Cricket",
+      "body": "I love to watch and play cricket",
+      "author": "Chinmay",
+      "id": 1
+    }
+  ]
+}
